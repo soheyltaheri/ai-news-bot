@@ -1,0 +1,30 @@
+# Open-source tools requirements for AI News Aggregator Bot
+# Install with: pip install -r open_source_requirements.txt --break-system-packages
+#
+# These are ADDITIONAL packages beyond what's in requirements.txt
+
+# ── Content Extraction ──────────────────────────────────────────────────────
+# Primary: best-in-class article extractor (6.3k★ on GitHub)
+# Extracts clean text, metadata, handles noisy HTML, no browser needed
+trafilatura>=1.12.0
+
+# Fallback: classic article extractor (13.6k★ but unmaintained since 2020)
+# Used as backup when trafilatura fails on a specific site
+newspaper3k>=0.2.8
+
+# ── Language Detection ──────────────────────────────────────────────────────
+# Google's language detection port — supports 55+ languages incl. Persian
+langdetect>=1.0.9
+
+# ── Translation ─────────────────────────────────────────────────────────────
+# Free Google Translate wrapper (no API key needed for basic use)
+# Supports fa→en translation for Persian articles
+deep-translator>=1.11.4
+
+# ── HTML Parsing (fast, used by trafilatura internally) ─────────────────────
+lxml>=5.0.0
+
+# ── Text Processing ─────────────────────────────────────────────────────────
+# BeautifulSoup4 is already in requirements.txt via web_sources.py
+# but listed here for completeness
+beautifulsoup4>=4.12.0

@@ -1,0 +1,32 @@
+# Environment variables
+.env
+.env.local
+
+# Python cache & build
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Telethon Sessions & Databases
+sessions/*.session
+sessions/*.session-journal
+*.session
+*.session-journal
+database/*.db
+database/posts.db
+downloads/
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/

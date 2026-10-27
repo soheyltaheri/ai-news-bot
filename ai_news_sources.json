@@ -1,0 +1,2080 @@
+{
+  "metadata": {
+    "version": "2.1",
+    "last_updated": "2026-07-18",
+    "total_sources": 234,
+    "description": "AI/ML news sources: Telegram, RSS, Reddit, X accounts (community-recommended via Grok), newsletters. X handles are reference lists; bot scrapes Telegram/RSS/Reddit/GitHub.",
+    "research_pass": "Heavy_consumption/Grok-4.5-high + t.me verification 2026-07-17"
+  },
+  "telegram_channels": {
+    "english": [
+      {
+        "name": "Deep Learning AI",
+        "handle": "DeepLearning_ai",
+        "url": "https://t.me/DeepLearning_ai",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "very_active",
+        "focus_area": "deep learning, general AI",
+        "verified": true
+      },
+      {
+        "name": "Machine Learning Research News",
+        "handle": "machinelearningresearchnews",
+        "url": "https://t.me/machinelearningresearchnews",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "very_active",
+        "focus_area": "ML research, papers",
+        "verified": true
+      },
+      {
+        "name": "Machine Learning 9",
+        "handle": "MachineLearning9",
+        "url": "https://t.me/MachineLearning9",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "very_active",
+        "focus_area": "machine learning, general AI",
+        "verified": true
+      },
+      {
+        "name": "Machine Learn",
+        "handle": "Machine_learn",
+        "url": "https://t.me/Machine_learn",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "very_active",
+        "focus_area": "machine learning, tutorials",
+        "verified": true
+      },
+      {
+        "name": "ML Research",
+        "handle": "MLResearch",
+        "url": "https://t.me/MLResearch",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "very_active",
+        "focus_area": "ML research, academic papers",
+        "verified": true
+      },
+      {
+        "name": "AI & Deep Learning",
+        "handle": "AI_DeepLearning",
+        "url": "https://t.me/AI_DeepLearning",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "very_active",
+        "focus_area": "AI, deep learning",
+        "verified": true
+      },
+      {
+        "name": "Artificial Intelligence",
+        "handle": "Artificial_intelligence_in",
+        "url": "https://t.me/Artificial_intelligence_in",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "very_active",
+        "focus_area": "general AI news",
+        "verified": true
+      },
+      {
+        "name": "Hiai Media EN",
+        "handle": "hiaimediaen",
+        "url": "https://t.me/hiaimediaen",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "AI media, news",
+        "verified": true
+      },
+      {
+        "name": "Anthropic AI",
+        "handle": "AnthropicAI",
+        "url": "https://t.me/AnthropicAI",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "Anthropic, Claude, AI safety",
+        "verified": true
+      },
+      {
+        "name": "Anthropic Labs",
+        "handle": "Anthropic_Labs",
+        "url": "https://t.me/Anthropic_Labs",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "Anthropic research, LLMs",
+        "verified": true
+      },
+      {
+        "name": "Anthropic Updates",
+        "handle": "Anthropic_updates",
+        "url": "https://t.me/Anthropic_updates",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "Anthropic product updates",
+        "verified": true
+      },
+      {
+        "name": "DeepMind AI",
+        "handle": "DeepMindAI",
+        "url": "https://t.me/DeepMindAI",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "Google DeepMind, research",
+        "verified": true
+      },
+      {
+        "name": "Hugging Face",
+        "handle": "HuggingFace",
+        "url": "https://t.me/HuggingFace",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "very_active",
+        "focus_area": "open-source AI, transformers, models",
+        "verified": true
+      },
+      {
+        "name": "AI Tech News",
+        "handle": "AI_TechNews",
+        "url": "https://t.me/AI_TechNews",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "very_active",
+        "focus_area": "AI technology news",
+        "verified": true
+      },
+      {
+        "name": "AI News Channel",
+        "handle": "AInews_channel",
+        "url": "https://t.me/AInews_channel",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "general AI news",
+        "verified": true
+      },
+      {
+        "name": "LLM News",
+        "handle": "LLM_news",
+        "url": "https://t.me/LLM_news",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "large language models",
+        "verified": true
+      },
+      {
+        "name": "LLM News (llmnews)",
+        "handle": "llmnews",
+        "url": "https://t.me/llmnews",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "LLMs, model releases",
+        "verified": true
+      },
+      {
+        "name": "LLM Hub",
+        "handle": "llmhub",
+        "url": "https://t.me/llmhub",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "LLM ecosystem, tools",
+        "verified": true
+      },
+      {
+        "name": "AI World News",
+        "handle": "AIworld_news",
+        "url": "https://t.me/AIworld_news",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "global AI news",
+        "verified": true
+      },
+      {
+        "name": "Machine Learning Daily",
+        "handle": "MachineLearningDaily",
+        "url": "https://t.me/MachineLearningDaily",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "very_active",
+        "focus_area": "daily ML updates",
+        "verified": true
+      },
+      {
+        "name": "NLP News",
+        "handle": "NLP_News",
+        "url": "https://t.me/NLP_News",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "natural language processing",
+        "verified": true
+      },
+      {
+        "name": "Computer Vision News",
+        "handle": "ComputerVisionNews",
+        "url": "https://t.me/ComputerVisionNews",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "computer vision, image processing",
+        "verified": true
+      },
+      {
+        "name": "AI Agents",
+        "handle": "AIAgents",
+        "url": "https://t.me/AIAgents",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "AI agents, autonomous systems",
+        "verified": true
+      },
+      {
+        "name": "AI Tools News",
+        "handle": "AiTools_news",
+        "url": "https://t.me/AiTools_news",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "very_active",
+        "focus_area": "AI tools, applications",
+        "verified": true
+      },
+      {
+        "name": "AI Tools List",
+        "handle": "AI_tools_list",
+        "url": "https://t.me/AI_tools_list",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "AI tool directories",
+        "verified": true
+      },
+      {
+        "name": "OpenAI News",
+        "handle": "OpenAI_News",
+        "url": "https://t.me/OpenAI_News",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "very_active",
+        "focus_area": "OpenAI, GPT, ChatGPT",
+        "verified": true
+      },
+      {
+        "name": "OpenAI Lab",
+        "handle": "OpenAILab",
+        "url": "https://t.me/OpenAILab",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "OpenAI research and releases",
+        "verified": true
+      },
+      {
+        "name": "OpenAI Updates",
+        "handle": "OpenAI_updates",
+        "url": "https://t.me/OpenAI_updates",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "OpenAI product updates",
+        "verified": true
+      },
+      {
+        "name": "OpenAI News (variant)",
+        "handle": "OpenAInews",
+        "url": "https://t.me/OpenAInews",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "very_active",
+        "focus_area": "OpenAI news and updates",
+        "verified": true
+      },
+      {
+        "name": "GPT Updates",
+        "handle": "GPT_updates",
+        "url": "https://t.me/GPT_updates",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "GPT model updates",
+        "verified": true
+      },
+      {
+        "name": "GPT News",
+        "handle": "GPT_news",
+        "url": "https://t.me/GPT_news",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "GPT ecosystem news",
+        "verified": true
+      },
+      {
+        "name": "ChatGPT News",
+        "handle": "ChatGPT_updates",
+        "url": "https://t.me/ChatGPT_updates",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "ChatGPT features and updates",
+        "verified": true
+      },
+      {
+        "name": "ChatGPT News (variant)",
+        "handle": "ChatGPTnews",
+        "url": "https://t.me/ChatGPTnews",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "ChatGPT news",
+        "verified": true
+      },
+      {
+        "name": "Claude Chat AI",
+        "handle": "ClaudeChatAI",
+        "url": "https://t.me/ClaudeChatAI",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "Claude AI, Anthropic",
+        "verified": true
+      },
+      {
+        "name": "DeepSeek AI",
+        "handle": "DeepSeekAI",
+        "url": "https://t.me/DeepSeekAI",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "DeepSeek models, open-source LLMs",
+        "verified": true
+      },
+      {
+        "name": "Llama AI",
+        "handle": "LlamaAI",
+        "url": "https://t.me/LlamaAI",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "Meta Llama models",
+        "verified": true
+      },
+      {
+        "name": "Meta AI News",
+        "handle": "MetaAI_news",
+        "url": "https://t.me/MetaAI_news",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "Meta AI products and research",
+        "verified": true
+      },
+      {
+        "name": "Meta AI",
+        "handle": "MetaAI",
+        "url": "https://t.me/MetaAI",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "Meta AI official",
+        "verified": true
+      },
+      {
+        "name": "NVIDIA AI",
+        "handle": "NVIDIAAI",
+        "url": "https://t.me/NVIDIAAI",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "NVIDIA AI hardware and software",
+        "verified": true
+      },
+      {
+        "name": "Google AI",
+        "handle": "GoogleAI",
+        "url": "https://t.me/GoogleAI",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "Google AI products, Gemini",
+        "verified": true
+      },
+      {
+        "name": "Cohere AI",
+        "handle": "CohereAI",
+        "url": "https://t.me/CohereAI",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "Cohere, enterprise LLMs",
+        "verified": true
+      },
+      {
+        "name": "Stability AI",
+        "handle": "StabilityAI",
+        "url": "https://t.me/StabilityAI",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "Stable Diffusion, generative AI",
+        "verified": true
+      },
+      {
+        "name": "Midjourney",
+        "handle": "Midjourney",
+        "url": "https://t.me/Midjourney",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "image generation, Midjourney",
+        "verified": true
+      },
+      {
+        "name": "Midjourney News",
+        "handle": "midjourney_news",
+        "url": "https://t.me/midjourney_news",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "Midjourney updates",
+        "verified": true
+      },
+      {
+        "name": "Ideogram AI",
+        "handle": "IdeogramAI",
+        "url": "https://t.me/IdeogramAI",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "text-to-image, Ideogram",
+        "verified": true
+      },
+      {
+        "name": "xAI News",
+        "handle": "xAI_news",
+        "url": "https://t.me/xAI_news",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "xAI, Grok",
+        "verified": true
+      },
+      {
+        "name": "Bard AI News",
+        "handle": "BardAI_news",
+        "url": "https://t.me/BardAI_news",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "Google Bard/Gemini",
+        "verified": true
+      },
+      {
+        "name": "Canva AI",
+        "handle": "CanvaAI",
+        "url": "https://t.me/CanvaAI",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "AI design tools",
+        "verified": true
+      },
+      {
+        "name": "AI Trend",
+        "handle": "AI_Trend",
+        "url": "https://t.me/AI_Trend",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "AI trends and analysis",
+        "verified": true
+      },
+      {
+        "name": "AI Market",
+        "handle": "AI_Market",
+        "url": "https://t.me/AI_Market",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "AI market, stocks, business",
+        "verified": true
+      },
+      {
+        "name": "AI News EN",
+        "handle": "AI_news_en",
+        "url": "https://t.me/AI_news_en",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "English AI news",
+        "verified": true
+      },
+      {
+        "name": "AI Trending",
+        "handle": "AI_trending",
+        "url": "https://t.me/ai_trending",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "trending AI topics",
+        "verified": true
+      },
+      {
+        "name": "AI Trending (variant)",
+        "handle": "AITrending",
+        "url": "https://t.me/AITrending",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "AI trending news",
+        "verified": true
+      },
+      {
+        "name": "AI Startup News",
+        "handle": "AIStartupNews",
+        "url": "https://t.me/AIStartupNews",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "AI startups, funding",
+        "verified": true
+      },
+      {
+        "name": "VentureBeat AI",
+        "handle": "VentureBeatAI",
+        "url": "https://t.me/VentureBeatAI",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "enterprise AI, business",
+        "verified": true
+      },
+      {
+        "name": "Wired AI",
+        "handle": "WiredAI",
+        "url": "https://t.me/WiredAI",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "Wired AI coverage",
+        "verified": true
+      },
+      {
+        "name": "Artificial Intelligence News",
+        "handle": "ArtificialIntelligenceNews",
+        "url": "https://t.me/ArtificialIntelligenceNews",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "AI news aggregator",
+        "verified": true
+      },
+      {
+        "name": "The AI Report",
+        "handle": "TheAIReport",
+        "url": "https://t.me/TheAIReport",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "AI industry reports",
+        "verified": true
+      },
+      {
+        "name": "LangChain AI",
+        "handle": "LangChainAI",
+        "url": "https://t.me/LangChainAI",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "LangChain, AI agents, RAG",
+        "verified": true
+      },
+      {
+        "name": "AI Agent Tools",
+        "handle": "AIAgentTools",
+        "url": "https://t.me/AIAgentTools",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "AI agent frameworks and tools",
+        "verified": true
+      },
+      {
+        "name": "AI in Action",
+        "handle": "AIinAction",
+        "url": "https://t.me/AIinAction",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "AI practical applications",
+        "verified": true
+      },
+      {
+        "name": "AI Demos",
+        "handle": "AIDemos",
+        "url": "https://t.me/AIDemos",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "AI product demos",
+        "verified": true
+      },
+      {
+        "name": "AI in Practice",
+        "handle": "AIinPractice",
+        "url": "https://t.me/AIinPractice",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "AI real-world use cases",
+        "verified": true
+      },
+      {
+        "name": "AI Tech Daily",
+        "handle": "AITechDaily",
+        "url": "https://t.me/AITechDaily",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "daily AI tech news",
+        "verified": true
+      },
+      {
+        "name": "ML Engineering",
+        "handle": "MLEngineering",
+        "url": "https://t.me/MLEngineering",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "ML engineering, MLOps",
+        "verified": true
+      },
+      {
+        "name": "MLOps News",
+        "handle": "MLops_news",
+        "url": "https://t.me/MLops_news",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "ML operations, deployment",
+        "verified": true
+      },
+      {
+        "name": "Suno AI",
+        "handle": "SunoAI",
+        "url": "https://t.me/SunoAI",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "AI music generation, Suno",
+        "verified": true
+      },
+      {
+        "name": "AI Voice",
+        "handle": "ai_voice",
+        "url": "https://t.me/ai_voice",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "AI voice, TTS, speech",
+        "verified": true
+      },
+      {
+        "name": "Text to Speech AI",
+        "handle": "text_to_speech_ai",
+        "url": "https://t.me/text_to_speech_ai",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "TTS, voice synthesis",
+        "verified": true
+      },
+      {
+        "name": "AI Video",
+        "handle": "AI_Video",
+        "url": "https://t.me/AI_Video",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "AI video generation",
+        "verified": true
+      },
+      {
+        "name": "Sora AI",
+        "handle": "SoraAI",
+        "url": "https://t.me/SoraAI",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "OpenAI Sora, video AI",
+        "verified": true
+      },
+      {
+        "name": "AI Productivity",
+        "handle": "AIproductivity",
+        "url": "https://t.me/AIproductivity",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "AI productivity tools",
+        "verified": true
+      },
+      {
+        "name": "No-Code AI",
+        "handle": "NoCodeAI",
+        "url": "https://t.me/NoCodeAI",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "no-code AI tools",
+        "verified": true
+      },
+      {
+        "name": "AI Startup",
+        "handle": "AIstartup",
+        "url": "https://t.me/AIstartup",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "AI startups",
+        "verified": true
+      },
+      {
+        "name": "AI Founders",
+        "handle": "AIfounders",
+        "url": "https://t.me/AIfounders",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "AI entrepreneurship",
+        "verified": true
+      },
+      {
+        "name": "AI Tools List (variant)",
+        "handle": "AIToolsList",
+        "url": "https://t.me/AIToolsList",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "AI tool listings",
+        "verified": true
+      },
+      {
+        "name": "Best AI Tools",
+        "handle": "BestAITools",
+        "url": "https://t.me/BestAITools",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "top AI tools reviews",
+        "verified": true
+      },
+      {
+        "name": "Free AI Tools",
+        "handle": "FreeAITools",
+        "url": "https://t.me/FreeAITools",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "free AI tools",
+        "verified": true
+      },
+      {
+        "name": "AI Tools Directory",
+        "handle": "AItoolsdirectory",
+        "url": "https://t.me/AItoolsdirectory",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "AI tools directory",
+        "verified": true
+      },
+      {
+        "name": "AI Tutorials",
+        "handle": "AItutorials",
+        "url": "https://t.me/AItutorials",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "AI tutorials, learning",
+        "verified": true
+      },
+      {
+        "name": "AI Hype",
+        "handle": "AIhype",
+        "url": "https://t.me/AIhype",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "AI hype, trends",
+        "verified": true
+      },
+      {
+        "name": "AI in Finance",
+        "handle": "AIinFinance",
+        "url": "https://t.me/AIinFinance",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "AI in finance, fintech",
+        "verified": true
+      },
+      {
+        "name": "AI Book Club",
+        "handle": "AIbookclub",
+        "url": "https://t.me/AIbookclub",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "AI books, research reading",
+        "verified": true
+      },
+      {
+        "name": "AI Regulation",
+        "handle": "AI_regulation",
+        "url": "https://t.me/AI_regulation",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "AI policy, regulation",
+        "verified": true
+      },
+      {
+        "name": "AI Governance",
+        "handle": "AI_governance",
+        "url": "https://t.me/AI_governance",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "AI governance, ethics",
+        "verified": true
+      },
+      {
+        "name": "AI Law",
+        "handle": "AI_law",
+        "url": "https://t.me/AI_law",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "AI legal issues",
+        "verified": true
+      },
+      {
+        "name": "AI for Good",
+        "handle": "AI_for_good",
+        "url": "https://t.me/AI_for_good",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "AI social impact",
+        "verified": true
+      },
+      {
+        "name": "Alignment AI",
+        "handle": "AlignmentAI",
+        "url": "https://t.me/AlignmentAI",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "AI alignment, safety",
+        "verified": true
+      },
+      {
+        "name": "AI Consciousness",
+        "handle": "AI_consciousness",
+        "url": "https://t.me/AI_consciousness",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "AI consciousness, AGI",
+        "verified": true
+      },
+      {
+        "name": "VC AI",
+        "handle": "VC_AI",
+        "url": "https://t.me/VC_AI",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "AI venture capital",
+        "verified": true
+      },
+      {
+        "name": "AI Careers",
+        "handle": "AI_careers",
+        "url": "https://t.me/AI_careers",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "AI job market",
+        "verified": true
+      },
+      {
+        "name": "Remote AI",
+        "handle": "RemoteAI",
+        "url": "https://t.me/RemoteAI",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "remote AI jobs, freelance",
+        "verified": true
+      },
+      {
+        "name": "The Rundown AI",
+        "handle": "TheRundownAI",
+        "url": "https://t.me/TheRundownAI",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "daily AI news digest",
+        "verified": true,
+        "source": "grok_x_community_research_2026-07-17"
+      },
+      {
+        "name": "DeepSeek AI",
+        "handle": "DeepSeek_AI",
+        "url": "https://t.me/DeepSeek_AI",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "DeepSeek models",
+        "verified": true,
+        "source": "grok_x_community_research_2026-07-17"
+      },
+      {
+        "name": "Perplexity",
+        "handle": "perplexity_ai",
+        "url": "https://t.me/perplexity_ai",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "Perplexity AI product news",
+        "verified": true,
+        "source": "grok_x_community_research_2026-07-17"
+      },
+      {
+        "name": "Nous Research",
+        "handle": "NousResearch",
+        "url": "https://t.me/NousResearch",
+        "type": "telegram",
+        "language": "en",
+        "activity_level": "occasional",
+        "focus_area": "open-source LLMs",
+        "verified": true,
+        "source": "grok_x_community_research_2026-07-17"
+      }
+    ],
+    "persian": [
+      {
+        "name": "هوش مصنوعی ایران (AIpersianChannel)",
+        "handle": "AIpersianChannel",
+        "url": "https://t.me/AIpersianChannel",
+        "type": "telegram",
+        "language": "fa",
+        "activity_level": "very_active",
+        "focus_area": "general AI news (Persian)",
+        "verified": true
+      },
+      {
+        "name": "هوشnews",
+        "handle": "Hooshews",
+        "url": "https://t.me/Hooshews",
+        "type": "telegram",
+        "language": "fa",
+        "activity_level": "very_active",
+        "focus_area": "AI news (Persian)",
+        "verified": true
+      },
+      {
+        "name": "هوش مصنوعی",
+        "handle": "HoosheMasnui",
+        "url": "https://t.me/HoosheMasnui",
+        "type": "telegram",
+        "language": "fa",
+        "activity_level": "very_active",
+        "focus_area": "AI general (Persian)",
+        "verified": true
+      },
+      {
+        "name": "پرامپت تلگرام",
+        "handle": "PromptTG",
+        "url": "https://t.me/PromptTG",
+        "type": "telegram",
+        "language": "fa",
+        "activity_level": "very_active",
+        "focus_area": "prompt engineering, AI tools (Persian)",
+        "verified": true
+      },
+      {
+        "name": "دیپ لرنینگ ایران",
+        "handle": "irandeeplearning",
+        "url": "https://t.me/irandeeplearning",
+        "type": "telegram",
+        "language": "fa",
+        "activity_level": "very_active",
+        "focus_area": "deep learning (Persian)",
+        "verified": true
+      },
+      {
+        "name": "میثم صداقت",
+        "handle": "MeysamSafdary",
+        "url": "https://t.me/MeysamSafdary",
+        "type": "telegram",
+        "language": "fa",
+        "activity_level": "active",
+        "focus_area": "AI education (Persian)",
+        "verified": true
+      },
+      {
+        "name": "تک وید تی وی",
+        "handle": "TechVid_TV",
+        "url": "https://t.me/TechVid_TV",
+        "type": "telegram",
+        "language": "fa",
+        "activity_level": "very_active",
+        "focus_area": "tech and AI videos (Persian)",
+        "verified": true
+      },
+      {
+        "name": "ای نیوز تی وی",
+        "handle": "Ai_NewsTv",
+        "url": "https://t.me/Ai_NewsTv",
+        "type": "telegram",
+        "language": "fa",
+        "activity_level": "very_active",
+        "focus_area": "AI news TV (Persian)",
+        "verified": true
+      },
+      {
+        "name": "ای نیوز فارسی",
+        "handle": "ainews_fa",
+        "url": "https://t.me/ainews_fa",
+        "type": "telegram",
+        "language": "fa",
+        "activity_level": "very_active",
+        "focus_area": "AI news (Persian)",
+        "verified": true
+      },
+      {
+        "name": "هوش مصنوعی فارسی",
+        "handle": "ai_persian",
+        "url": "https://t.me/ai_persian",
+        "type": "telegram",
+        "language": "fa",
+        "activity_level": "active",
+        "focus_area": "AI in Persian",
+        "verified": true
+      },
+      {
+        "name": "دورسا AI",
+        "handle": "dorsa_ai",
+        "url": "https://t.me/dorsa_ai",
+        "type": "telegram",
+        "language": "fa",
+        "activity_level": "active",
+        "focus_area": "AI tutorials, Dorsa",
+        "verified": true
+      },
+      {
+        "name": "AI News فارسی",
+        "handle": "AiNews_FA",
+        "url": "https://t.me/AiNews_FA",
+        "type": "telegram",
+        "language": "fa",
+        "activity_level": "active",
+        "focus_area": "AI news (Persian)",
+        "verified": true
+      },
+      {
+        "name": "ابزارهای هوش مصنوعی",
+        "handle": "AItools_fa",
+        "url": "https://t.me/AItools_fa",
+        "type": "telegram",
+        "language": "fa",
+        "activity_level": "active",
+        "focus_area": "AI tools (Persian)",
+        "verified": true
+      },
+      {
+        "name": "NLP فارسی",
+        "handle": "NLP_fa",
+        "url": "https://t.me/NLP_fa",
+        "type": "telegram",
+        "language": "fa",
+        "activity_level": "active",
+        "focus_area": "NLP (Persian)",
+        "verified": true
+      },
+      {
+        "name": "OpenAI فارسی",
+        "handle": "OpenAI_fa",
+        "url": "https://t.me/OpenAI_fa",
+        "type": "telegram",
+        "language": "fa",
+        "activity_level": "active",
+        "focus_area": "OpenAI news (Persian)",
+        "verified": true
+      },
+      {
+        "name": "DeepSeek فارسی",
+        "handle": "DeepSeek_fa",
+        "url": "https://t.me/DeepSeek_fa",
+        "type": "telegram",
+        "language": "fa",
+        "activity_level": "active",
+        "focus_area": "DeepSeek (Persian)",
+        "verified": true
+      },
+      {
+        "name": "LLM فارسی",
+        "handle": "LLM_fa",
+        "url": "https://t.me/LLM_fa",
+        "type": "telegram",
+        "language": "fa",
+        "activity_level": "active",
+        "focus_area": "LLM news (Persian)",
+        "verified": true
+      },
+      {
+        "name": "ای نیوز ایران",
+        "handle": "ai_news_ir",
+        "url": "https://t.me/ai_news_ir",
+        "type": "telegram",
+        "language": "fa",
+        "activity_level": "active",
+        "focus_area": "AI news Iran",
+        "verified": true
+      },
+      {
+        "name": "machine learning فارسی",
+        "handle": "machinelearning_fa",
+        "url": "https://t.me/machinelearning_fa",
+        "type": "telegram",
+        "language": "fa",
+        "activity_level": "active",
+        "focus_area": "machine learning (Persian)",
+        "verified": true
+      },
+      {
+        "name": "آی‌بار",
+        "handle": "aibar",
+        "url": "https://t.me/aibar",
+        "type": "telegram",
+        "language": "fa",
+        "activity_level": "active",
+        "focus_area": "AI news bar (Persian)",
+        "verified": true
+      },
+      {
+        "name": "هوش ماشینی",
+        "handle": "hosh_masnui",
+        "url": "https://t.me/hosh_masnui",
+        "type": "telegram",
+        "language": "fa",
+        "activity_level": "active",
+        "focus_area": "AI (Persian)",
+        "verified": true
+      },
+      {
+        "name": "ابزارهای AI فارسی",
+        "handle": "aitools_fa",
+        "url": "https://t.me/aitools_fa",
+        "type": "telegram",
+        "language": "fa",
+        "activity_level": "active",
+        "focus_area": "AI tools (Persian)",
+        "verified": true
+      }
+    ]
+  },
+  "rss_feeds": {
+    "major_tech_news": [
+      {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/feed/",
+        "type": "rss",
+        "language": "en",
+        "activity_level": "very_active",
+        "focus_area": "general AI, tech policy"
+      },
+      {
+        "name": "VentureBeat AI",
+        "url": "https://venturebeat.com/category/ai/feed/",
+        "type": "rss",
+        "language": "en",
+        "activity_level": "very_active",
+        "focus_area": "enterprise AI, business AI"
+      },
+      {
+        "name": "The Verge AI",
+        "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+        "type": "rss",
+        "language": "en",
+        "activity_level": "very_active",
+        "focus_area": "consumer AI, tech news"
+      },
+      {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+        "type": "rss",
+        "language": "en",
+        "activity_level": "very_active",
+        "focus_area": "AI startups, funding"
+      },
+      {
+        "name": "Ars Technica AI",
+        "url": "https://arstechnica.com/tag/artificial-intelligence/feed/",
+        "type": "rss",
+        "language": "en",
+        "activity_level": "very_active",
+        "focus_area": "deep-dive AI reporting"
+      },
+      {
+        "name": "Wired AI",
+        "url": "https://www.wired.com/feed/tag/ai/latest/rss",
+        "type": "rss",
+        "language": "en",
+        "activity_level": "very_active",
+        "focus_area": "AI culture, impact"
+      },
+      {
+        "name": "ZDNet AI",
+        "url": "https://www.zdnet.com/topic/artificial-intelligence/rss.xml",
+        "type": "rss",
+        "language": "en",
+        "activity_level": "very_active",
+        "focus_area": "enterprise AI, IT"
+      },
+      {
+        "name": "Engadget",
+        "url": "https://www.engadget.com/rss.xml",
+        "type": "rss",
+        "language": "en",
+        "activity_level": "very_active",
+        "focus_area": "tech products, consumer AI"
+      },
+      {
+        "name": "The Next Web",
+        "url": "https://thenextweb.com/feed",
+        "type": "rss",
+        "language": "en",
+        "activity_level": "very_active",
+        "focus_area": "tech startups, innovation"
+      },
+      {
+        "name": "SiliconAngle",
+        "url": "https://siliconangle.com/feed/",
+        "type": "rss",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "cloud AI, enterprise"
+      },
+      {
+        "name": "InfoWorld AI",
+        "url": "https://www.infoworld.com/category/artificial-intelligence/index.rss",
+        "type": "rss",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "AI for developers"
+      }
+    ],
+    "ai_research_specialized": [
+      {
+        "name": "IEEE Spectrum AI",
+        "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+        "type": "rss",
+        "language": "en",
+        "activity_level": "very_active",
+        "focus_area": "AI research, hardware"
+      },
+      {
+        "name": "Synced Review",
+        "url": "https://syncedreview.com/feed/",
+        "type": "rss",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "AI research, China AI"
+      },
+      {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com/feed/",
+        "type": "rss",
+        "language": "en",
+        "activity_level": "very_active",
+        "focus_area": "AI/ML tutorials, research"
+      },
+      {
+        "name": "Unite.AI",
+        "url": "https://www.unite.ai/feed/",
+        "type": "rss",
+        "language": "en",
+        "activity_level": "very_active",
+        "focus_area": "AI news, products, research"
+      },
+      {
+        "name": "Towards Data Science",
+        "url": "https://towardsdatascience.com/feed",
+        "type": "rss",
+        "language": "en",
+        "activity_level": "very_active",
+        "focus_area": "data science, ML tutorials"
+      },
+      {
+        "name": "Analytics India Magazine AI",
+        "url": "https://analyticsindiamag.com/category/artificial-intelligence/feed/",
+        "type": "rss",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "AI in India, emerging markets"
+      },
+      {
+        "name": "Analytics Vidhya",
+        "url": "https://www.analyticsvidhya.com/feed/",
+        "type": "rss",
+        "language": "en",
+        "activity_level": "very_active",
+        "focus_area": "data science, ML tutorials"
+      },
+      {
+        "name": "KDnuggets",
+        "url": "https://www.kdnuggets.com/feed",
+        "type": "rss",
+        "language": "en",
+        "activity_level": "very_active",
+        "focus_area": "data mining, ML, analytics"
+      },
+      {
+        "name": "Machine Learning Mastery",
+        "url": "https://machinelearningmastery.com/feed/",
+        "type": "rss",
+        "language": "en",
+        "activity_level": "very_active",
+        "focus_area": "ML practical tutorials"
+      },
+      {
+        "name": "Distill",
+        "url": "https://distill.pub/rss.xml",
+        "type": "rss",
+        "language": "en",
+        "activity_level": "occasional",
+        "focus_area": "ML explainability, visualization"
+      },
+      {
+        "name": "AI News",
+        "url": "https://www.artificialintelligence-news.com/feed/",
+        "type": "rss",
+        "language": "en",
+        "activity_level": "very_active",
+        "focus_area": "AI news aggregator"
+      }
+    ],
+    "company_blogs": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/blog/rss.xml",
+        "type": "rss",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "GPT, DALL-E, OpenAI research"
+      },
+      {
+        "name": "DeepMind Blog",
+        "url": "https://www.deepmind.com/blog/rss.xml",
+        "type": "rss",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "DeepMind research, AlphaFold"
+      },
+      {
+        "name": "Google Research Blog",
+        "url": "https://blog.research.google/feeds/posts/default",
+        "type": "rss",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "Google AI research"
+      },
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "type": "rss",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "Microsoft AI research"
+      },
+      {
+        "name": "HuggingFace Blog",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "type": "rss",
+        "language": "en",
+        "activity_level": "very_active",
+        "focus_area": "open-source AI, models, transformers"
+      },
+      {
+        "name": "MIT News AI",
+        "url": "https://news.mit.edu/topic/mitartificial-intelligence2-rss.xml",
+        "type": "rss",
+        "language": "en",
+        "activity_level": "active",
+        "focus_area": "MIT AI research news"
+      }
+    ],
+    "researcher_blogs": [
+      {
+        "name": "Lilian Weng Blog",
+        "url": "https://lilianweng.github.io/index.xml",
+        "type": "rss",
+        "language": "en",
+        "activity_level": "occasional",
+        "focus_area": "LLMs, prompt engineering, RL"
+      },
+      {
+        "name": "Jay Alammar Blog",
+        "url": "https://jalammar.github.io/feed.xml",
+        "type": "rss",
+        "language": "en",
+        "activity_level": "occasional",
+        "focus_area": "ML visualization, transformers"
+      },
+      {
+        "name": "Chris Olah Blog",
+        "url": "https://colah.github.io/rss.xml",
+        "type": "rss",
+        "language": "en",
+        "activity_level": "occasional",
+        "focus_area": "neural network interpretability"
+      }
+    ],
+    "security": [
+      {
+        "name": "The Hacker News",
+        "url": "https://feeds.feedburner.com/TheHackersNews",
+        "type": "rss",
+        "language": "en",
+        "activity_level": "very_active",
+        "focus_area": "cybersecurity, AI security"
+      }
+    ],
+    "community_recommended": [
+      {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/news/rss.xml",
+        "type": "rss",
+        "language": "en",
+        "focus_area": "OpenAI official",
+        "source": "grok_x_community_research_2026-07-17"
+      },
+      {
+        "name": "Google DeepMind Blog",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "type": "rss",
+        "language": "en",
+        "focus_area": "DeepMind research",
+        "source": "grok_x_community_research_2026-07-17"
+      },
+      {
+        "name": "MIT Technology Review AI",
+        "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+        "type": "rss",
+        "language": "en",
+        "focus_area": "deep AI analysis",
+        "source": "grok_x_community_research_2026-07-17"
+      },
+      {
+        "name": "Import AI",
+        "url": "https://importai.substack.com/feed",
+        "type": "rss",
+        "language": "en",
+        "focus_area": "Jack Clark newsletter",
+        "source": "grok_x_community_research_2026-07-17"
+      },
+      {
+        "name": "Last Week in AI",
+        "url": "https://lastweekin.ai/feed",
+        "type": "rss",
+        "language": "en",
+        "focus_area": "weekly AI digest",
+        "source": "grok_x_community_research_2026-07-17"
+      },
+      {
+        "name": "Latent Space",
+        "url": "https://www.latent.space/feed",
+        "type": "rss",
+        "language": "en",
+        "focus_area": "AI eng community",
+        "source": "grok_x_community_research_2026-07-17"
+      },
+      {
+        "name": "The Sequence",
+        "url": "https://thesequence.substack.com/feed",
+        "type": "rss",
+        "language": "en",
+        "focus_area": "ML newsletter",
+        "source": "grok_x_community_research_2026-07-17"
+      }
+    ]
+  },
+  "reddit": [
+    {
+      "name": "r/MachineLearning",
+      "url": "https://www.reddit.com/r/MachineLearning",
+      "json_api": "https://www.reddit.com/r/MachineLearning/hot.json",
+      "rss": "https://www.reddit.com/r/MachineLearning/.rss",
+      "type": "reddit",
+      "language": "en",
+      "activity_level": "very_active",
+      "focus_area": "ML research, papers, discussion",
+      "subscriber_count": "2.8M+"
+    },
+    {
+      "name": "r/artificial",
+      "url": "https://www.reddit.com/r/artificial",
+      "json_api": "https://www.reddit.com/r/artificial/hot.json",
+      "rss": "https://www.reddit.com/r/artificial/.rss",
+      "type": "reddit",
+      "language": "en",
+      "activity_level": "very_active",
+      "focus_area": "general AI news and discussion",
+      "subscriber_count": "500K+"
+    },
+    {
+      "name": "r/LocalLLaMA",
+      "url": "https://www.reddit.com/r/LocalLLaMA",
+      "json_api": "https://www.reddit.com/r/LocalLLaMA/hot.json",
+      "rss": "https://www.reddit.com/r/LocalLLaMA/.rss",
+      "type": "reddit",
+      "language": "en",
+      "activity_level": "very_active",
+      "focus_area": "local LLMs, open-source models",
+      "subscriber_count": "350K+"
+    },
+    {
+      "name": "r/deeplearning",
+      "url": "https://www.reddit.com/r/deeplearning",
+      "json_api": "https://www.reddit.com/r/deeplearning/hot.json",
+      "rss": "https://www.reddit.com/r/deeplearning/.rss",
+      "type": "reddit",
+      "language": "en",
+      "activity_level": "very_active",
+      "focus_area": "deep learning research",
+      "subscriber_count": "1.5M+"
+    },
+    {
+      "name": "r/singularity",
+      "url": "https://www.reddit.com/r/singularity",
+      "json_api": "https://www.reddit.com/r/singularity/hot.json",
+      "rss": "https://www.reddit.com/r/singularity/.rss",
+      "type": "reddit",
+      "language": "en",
+      "activity_level": "very_active",
+      "focus_area": "AGI, singularity, futurism",
+      "subscriber_count": "1M+"
+    },
+    {
+      "name": "r/ChatGPT",
+      "url": "https://www.reddit.com/r/ChatGPT",
+      "json_api": "https://www.reddit.com/r/ChatGPT/hot.json",
+      "rss": "https://www.reddit.com/r/ChatGPT/.rss",
+      "type": "reddit",
+      "language": "en",
+      "activity_level": "very_active",
+      "focus_area": "ChatGPT usage, tips, news",
+      "subscriber_count": "8M+"
+    },
+    {
+      "name": "r/ClaudeAI",
+      "url": "https://www.reddit.com/r/ClaudeAI",
+      "json_api": "https://www.reddit.com/r/ClaudeAI/hot.json",
+      "rss": "https://www.reddit.com/r/ClaudeAI/.rss",
+      "type": "reddit",
+      "language": "en",
+      "activity_level": "very_active",
+      "focus_area": "Claude AI discussion",
+      "subscriber_count": "200K+"
+    },
+    {
+      "name": "r/OpenAI",
+      "url": "https://www.reddit.com/r/OpenAI",
+      "json_api": "https://www.reddit.com/r/OpenAI/hot.json",
+      "rss": "https://www.reddit.com/r/OpenAI/.rss",
+      "type": "reddit",
+      "language": "en",
+      "activity_level": "very_active",
+      "focus_area": "OpenAI products and news",
+      "subscriber_count": "500K+"
+    },
+    {
+      "name": "MachineLearning",
+      "url": "https://www.reddit.com/r/MachineLearning/",
+      "type": "reddit",
+      "source": "grok_x_community_research_2026-07-17"
+    },
+    {
+      "name": "artificial",
+      "url": "https://www.reddit.com/r/artificial/",
+      "type": "reddit",
+      "source": "grok_x_community_research_2026-07-17"
+    },
+    {
+      "name": "OpenAI",
+      "url": "https://www.reddit.com/r/OpenAI/",
+      "type": "reddit",
+      "source": "grok_x_community_research_2026-07-17"
+    },
+    {
+      "name": "LocalLLaMA",
+      "url": "https://www.reddit.com/r/LocalLLaMA/",
+      "type": "reddit",
+      "source": "grok_x_community_research_2026-07-17"
+    },
+    {
+      "name": "ChatGPT",
+      "url": "https://www.reddit.com/r/ChatGPT/",
+      "type": "reddit",
+      "source": "grok_x_community_research_2026-07-17"
+    },
+    {
+      "name": "singularity",
+      "url": "https://www.reddit.com/r/singularity/",
+      "type": "reddit",
+      "source": "grok_x_community_research_2026-07-17"
+    },
+    {
+      "name": "MachineLearningNews",
+      "url": "https://www.reddit.com/r/MachineLearningNews/",
+      "type": "reddit",
+      "source": "grok_x_community_research_2026-07-17"
+    },
+    {
+      "name": "ArtificialIntelligence",
+      "url": "https://www.reddit.com/r/ArtificialIntelligence/",
+      "type": "reddit",
+      "source": "grok_x_community_research_2026-07-17"
+    },
+    {
+      "name": "deeplearning",
+      "url": "https://www.reddit.com/r/deeplearning/",
+      "type": "reddit",
+      "source": "grok_x_community_research_2026-07-17"
+    },
+    {
+      "name": "LanguageTechnology",
+      "url": "https://www.reddit.com/r/LanguageTechnology/",
+      "type": "reddit",
+      "source": "grok_x_community_research_2026-07-17"
+    },
+    {
+      "name": "StableDiffusion",
+      "url": "https://www.reddit.com/r/StableDiffusion/",
+      "type": "reddit",
+      "source": "grok_x_community_research_2026-07-17"
+    },
+    {
+      "name": "ClaudeAI",
+      "url": "https://www.reddit.com/r/ClaudeAI/",
+      "type": "reddit",
+      "source": "grok_x_community_research_2026-07-17"
+    }
+  ],
+  "hacker_news": {
+    "firebase_api": {
+      "top_stories": "https://hacker-news.firebaseio.com/v0/topstories.json",
+      "new_stories": "https://hacker-news.firebaseio.com/v0/newstories.json",
+      "best_stories": "https://hacker-news.firebaseio.com/v0/beststories.json",
+      "item": "https://hacker-news.firebaseio.com/v0/item/{id}.json",
+      "ask_hn": "https://hacker-news.firebaseio.com/v0/askstories.json",
+      "show_hn": "https://hacker-news.firebaseio.com/v0/showstories.json"
+    },
+    "rss_feeds": [
+      {
+        "name": "HN Newest (AI)",
+        "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+machine+learning",
+        "type": "rss",
+        "language": "en",
+        "activity_level": "very_active",
+        "focus_area": "latest AI posts on HN"
+      },
+      {
+        "name": "HN Best (AI)",
+        "url": "https://hnrss.org/best?q=AI+OR+LLM+OR+machine+learning",
+        "type": "rss",
+        "language": "en",
+        "activity_level": "very_active",
+        "focus_area": "top AI posts on HN"
+      },
+      {
+        "name": "HN Frontpage (AI)",
+        "url": "https://hnrss.org/frontpage?q=AI+OR+machine+learning+OR+LLM",
+        "type": "rss",
+        "language": "en",
+        "activity_level": "very_active",
+        "focus_area": "AI on HN frontpage"
+      },
+      {
+        "name": "HN Newest (LLM)",
+        "url": "https://hnrss.org/newest?q=LLM",
+        "type": "rss",
+        "language": "en",
+        "activity_level": "very_active",
+        "focus_area": "LLM posts on HN"
+      }
+    ]
+  },
+  "web_search_targets": [
+    {
+      "name": "Google News AI",
+      "url": "https://news.google.com/search?q=artificial+intelligence+OR+machine+learning&hl=en-US",
+      "rss": "https://news.google.com/rss/search?q=artificial+intelligence+OR+machine+learning+when:7d&hl=en-US&gl=US&ceid=US:en",
+      "type": "web",
+      "language": "en",
+      "activity_level": "very_active",
+      "focus_area": "aggregated AI news from Google",
+      "scraping_notes": "Use RSS feed for programmatic access"
+    },
+    {
+      "name": "Google News AI (Persian)",
+      "url": "https://news.google.com/search?q=%D8%A7%D8%B9%D9%84%D8%A7%D9%85+%D8%A7%D8%B4%D8%B9%D8%A7%D8%B1%DB%8C+%D9%88+%D8%A8%D8%A7%D8%B4%DA%AF%D8%A7%D9%87+%D9%85%D8%B5%D9%86%D9%88%D8%B9%D9%8A&hl=fa",
+      "rss": "https://news.google.com/rss/search?q=%D8%A7%D8%B9%D9%84%D8%A7%D9%85+%D8%A7%D8%B4%D8%B9%D8%A7%D8%B1%DB%8C+OR+%D8%A8%D8%A7%D8%B4%DA%AF%D8%A7%D9%87+%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C+when:7d&hl=fa&gl=IR&ceid=IR:fa",
+      "type": "web",
+      "language": "fa",
+      "activity_level": "very_active",
+      "focus_area": "aggregated AI news in Persian from Google",
+      "scraping_notes": "Use RSS feed for programmatic access"
+    },
+    {
+      "name": "arXiv cs.AI",
+      "url": "https://arxiv.org/list/cs.AI/recent",
+      "rss": "https://rss.arxiv.org/rss/cs.AI",
+      "type": "web",
+      "language": "en",
+      "activity_level": "very_active",
+      "focus_area": "AI research papers",
+      "scraping_notes": "RSS for daily listings, or use arxiv API"
+    },
+    {
+      "name": "arXiv cs.CL (NLP)",
+      "url": "https://arxiv.org/list/cs.CL/recent",
+      "rss": "https://rss.arxiv.org/rss/cs.CL",
+      "type": "web",
+      "language": "en",
+      "activity_level": "very_active",
+      "focus_area": "NLP and computational linguistics papers",
+      "scraping_notes": "RSS for daily listings"
+    },
+    {
+      "name": "arXiv cs.LG (ML)",
+      "url": "https://arxiv.org/list/cs.LG/recent",
+      "rss": "https://rss.arxiv.org/rss/cs.LG",
+      "type": "web",
+      "language": "en",
+      "activity_level": "very_active",
+      "focus_area": "machine learning papers",
+      "scraping_notes": "RSS for daily listings"
+    },
+    {
+      "name": "arXiv cs.CV (Vision)",
+      "url": "https://arxiv.org/list/cs.CV/recent",
+      "rss": "https://rss.arxiv.org/rss/cs.CV",
+      "type": "web",
+      "language": "en",
+      "activity_level": "very_active",
+      "focus_area": "computer vision papers",
+      "scraping_notes": "RSS for daily listings"
+    },
+    {
+      "name": "Hacker News (Firebase API)",
+      "url": "https://news.ycombinator.com",
+      "api": "https://hacker-news.firebaseio.com/v0/topstories.json",
+      "type": "web",
+      "language": "en",
+      "activity_level": "very_active",
+      "focus_area": "tech news, AI discussions",
+      "scraping_notes": "Use Firebase API for structured data"
+    },
+    {
+      "name": "Papers With Code",
+      "url": "https://paperswithcode.com",
+      "type": "web",
+      "language": "en",
+      "activity_level": "very_active",
+      "focus_area": "ML papers with code implementations",
+      "scraping_notes": "Has API: https://paperswithcode.com/api/v1/"
+    },
+    {
+      "name": "arXiv Sanity",
+      "url": "https://arxiv-sanity-lite.com",
+      "type": "web",
+      "language": "en",
+      "activity_level": "very_active",
+      "focus_area": "curated AI papers",
+      "scraping_notes": "Curated view of arxiv papers"
+    }
+  ],
+  "x_accounts": {
+    "note": "Compiled via Grok 4.5 High (Heavy_consumption/gcli) + community lists. Live X firehose was NOT available through 9Router chat API; this is model knowledge of commonly recommended AI accounts people cite on X.",
+    "compiled_at": "2026-07-18",
+    "accounts": [
+      {
+        "handle": "sama",
+        "category": "company_exec",
+        "why": "OpenAI CEO"
+      },
+      {
+        "handle": "gdb",
+        "category": "company_exec",
+        "why": "OpenAI president"
+      },
+      {
+        "handle": "miramurati",
+        "category": "company_exec",
+        "why": "OpenAI CTO"
+      },
+      {
+        "handle": "DarioAmodei",
+        "category": "company_exec",
+        "why": "Anthropic CEO"
+      },
+      {
+        "handle": "jackclarkSF",
+        "category": "company_exec",
+        "why": "Anthropic; Import AI"
+      },
+      {
+        "handle": "AnthropicAI",
+        "category": "company",
+        "why": "Official Anthropic"
+      },
+      {
+        "handle": "demishassabis",
+        "category": "company_exec",
+        "why": "DeepMind CEO"
+      },
+      {
+        "handle": "GoogleDeepMind",
+        "category": "company",
+        "why": "Official DeepMind"
+      },
+      {
+        "handle": "JeffDean",
+        "category": "company_exec",
+        "why": "Google AI"
+      },
+      {
+        "handle": "ylecun",
+        "category": "researcher",
+        "why": "Meta Chief AI Scientist"
+      },
+      {
+        "handle": "AIatMeta",
+        "category": "company",
+        "why": "Meta AI / Llama"
+      },
+      {
+        "handle": "elonmusk",
+        "category": "company_exec",
+        "why": "xAI"
+      },
+      {
+        "handle": "xai",
+        "category": "company",
+        "why": "Official xAI"
+      },
+      {
+        "handle": "karpathy",
+        "category": "researcher",
+        "why": "ex-OpenAI/Tesla education"
+      },
+      {
+        "handle": "swyx",
+        "category": "curator",
+        "why": "Latent Space"
+      },
+      {
+        "handle": "rowancheung",
+        "category": "curator",
+        "why": "The Rundown AI"
+      },
+      {
+        "handle": "AndrewYNg",
+        "category": "researcher",
+        "why": "DeepLearning.AI / The Batch"
+      },
+      {
+        "handle": "fchollet",
+        "category": "researcher",
+        "why": "Keras"
+      },
+      {
+        "handle": "jeremyphoward",
+        "category": "researcher",
+        "why": "fast.ai"
+      },
+      {
+        "handle": "ClementDelangue",
+        "category": "company_exec",
+        "why": "Hugging Face CEO"
+      },
+      {
+        "handle": "huggingface",
+        "category": "company",
+        "why": "Official HF"
+      },
+      {
+        "handle": "DrJimFan",
+        "category": "researcher",
+        "why": "NVIDIA agents/robotics"
+      },
+      {
+        "handle": "OpenAI",
+        "category": "company",
+        "why": "Official OpenAI"
+      },
+      {
+        "handle": "TheVerge",
+        "category": "media",
+        "why": "AI product coverage"
+      },
+      {
+        "handle": "techcrunch",
+        "category": "media",
+        "why": "AI startups"
+      },
+      {
+        "handle": "techreview",
+        "category": "media",
+        "why": "MIT TR"
+      },
+      {
+        "handle": "VentureBeat",
+        "category": "media",
+        "why": "Enterprise AI"
+      },
+      {
+        "handle": "wired",
+        "category": "media",
+        "why": "Long-form AI"
+      },
+      {
+        "handle": "nearcyan",
+        "category": "curator",
+        "why": "AI community pulse"
+      },
+      {
+        "handle": "lexfridman",
+        "category": "curator",
+        "why": "AI interviews"
+      },
+      {
+        "handle": "alliekmiller",
+        "category": "curator",
+        "why": "AI influencer commonly listed"
+      },
+      {
+        "handle": "YoshuaBengio",
+        "category": "researcher",
+        "why": "Turing Award / safety"
+      },
+      {
+        "handle": "amasad",
+        "category": "company_exec",
+        "why": "Replit AI coding"
+      }
+    ]
+  },
+  "newsletters": [
+    {
+      "name": "The Batch",
+      "url": "https://www.deeplearning.ai/the-batch/",
+      "source": "grok_x_community_research_2026-07-17"
+    },
+    {
+      "name": "Import AI",
+      "url": "https://importai.substack.com/",
+      "source": "grok_x_community_research_2026-07-17"
+    },
+    {
+      "name": "Ben's Bites",
+      "url": "https://www.bensbites.co/",
+      "source": "grok_x_community_research_2026-07-17"
+    },
+    {
+      "name": "The Rundown AI",
+      "url": "https://www.therundown.ai/",
+      "source": "grok_x_community_research_2026-07-17"
+    },
+    {
+      "name": "TLDR AI",
+      "url": "https://tldr.tech/ai",
+      "source": "grok_x_community_research_2026-07-17"
+    },
+    {
+      "name": "Latent Space",
+      "url": "https://www.latent.space/",
+      "source": "grok_x_community_research_2026-07-17"
+    },
+    {
+      "name": "The Sequence",
+      "url": "https://thesequence.substack.com/",
+      "source": "grok_x_community_research_2026-07-17"
+    },
+    {
+      "name": "Last Week in AI",
+      "url": "https://lastweekin.ai/",
+      "source": "grok_x_community_research_2026-07-17"
+    },
+    {
+      "name": "AlphaSignal",
+      "url": "https://alphasignal.ai/",
+      "source": "grok_x_community_research_2026-07-17"
+    },
+    {
+      "name": "One Useful Thing",
+      "url": "https://www.oneusefulthing.org/",
+      "source": "grok_x_community_research_2026-07-17"
+    },
+    {
+      "name": "Ahead of AI",
+      "url": "https://magazine.sebastianraschka.com/",
+      "source": "grok_x_community_research_2026-07-17"
+    }
+  ],
+  "verification_notes": {
+    "method": "Grok 4.5 High via 9Router Heavy_consumption + t.me/s preview verification",
+    "live_x_search": false,
+    "note": "9Router chat completions for Grok returned recommendations from model knowledge; tool-based live X search was not exposed. Telegram handles were verified with public web previews.",
+    "rejected_inactive_or_spam_telegram": [
+      "bensbites",
+      "arxiv_daily",
+      "eleutherai",
+      "llm_watch",
+      "alphasignalai",
+      "AI_Farsi",
+      "ChatGPT_Persian",
+      "DeepLearning_IR",
+      "GenerativeAI_FA",
+      "LLM_Persian",
+      "ChatGPT_IR",
+      "AI_Iran_Community",
+      "ollama_ai",
+      "AINewsFeed",
+      "ai_news",
+      "paperswithcode",
+      "TheBatchAI",
+      "LatentSpace",
+      "GoogleDeepMind",
+      "xai",
+      "cohere_ai",
+      "mistralai",
+      "groqinc",
+      "openai"
+    ]
+  }
+}
